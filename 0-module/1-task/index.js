@@ -1,3 +1,4 @@
 function sum(m, n) {
-  // ваш код...
+  // 1-st task, summary 2 digit
+  return m + n
 }
